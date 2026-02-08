@@ -6,5 +6,5 @@
     
     <changelog>https://github.com/wdariusw/GM_Toolkit_Releases/releases</changelog>
     
-    <mandatory>true</mandatory>
+    <mandatory>false</mandatory>
 </item>
